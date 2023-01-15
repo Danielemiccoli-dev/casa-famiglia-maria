@@ -450,6 +450,7 @@ input[type='checkbox'] {
 
 .offcanvas-collapse {
 	position: fixed;
+	font-size: large;
 	top: 4.5rem; /* adjusts the height between the top of the page and the offcanvas menu */
 	bottom: 0;
 	left: 100%;
@@ -538,7 +539,7 @@ input[type='checkbox'] {
 .navbar .fa-stack {
 	width: 2em;
 	margin-right: 0.25rem;
-	font-size: 0.75rem;
+	font-size: 1rem;
 }
 
 .navbar .fa-stack-2x {
